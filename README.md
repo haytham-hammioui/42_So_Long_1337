@@ -8,6 +8,7 @@
 # So_long
 
 `so_long` is a project from 42 School that focuses on building a simple game using C and the MiniLibX library. This project emphasizes map handling, movement management, and graphical performance optimization, providing hands-on experience in 2D game programming and working with graphical assets. It serves as an important step in mastering memory management, user interaction, and event handling, making it a solid foundation for future projects. 🚀🎮 .
+
 ![so long play screen shot](So_long_play_screenshot.png)
 
 ## Getting Started
